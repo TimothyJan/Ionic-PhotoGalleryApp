@@ -1,7 +1,7 @@
 # Ionic-PhotoGalleryApp
 Photo Gallery app that offers the ability to take photos with your device's camera, display them in a grid, and store them permanently on the device using Ionic.<br>
 
-Tutorial<br>
+Tutorial
 <ul>
     <li>Your First Ionic App: Angular <a href="https://ionicframework.com/docs/angular/your-first-app" target="_blank">link</a></li>
     <li>Taking Photos <a href="https://ionicframework.com/docs/angular/your-first-app/taking-photos" target="_blank">link</a></li>
